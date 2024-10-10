@@ -1,0 +1,16 @@
+join-message: "§fTürkiye'nin en büyük anarşi serveri §3Quilt§f'e hoş geldin!"
+disable-chatting: true
+disable-interacting: true
+disable-join-messages: true
+disable-hungry: true
+disable-damage: true
+disable-move: false
+
+spawn:
+  ==: org.bukkit.Location
+  world: world
+  x: 97.500
+  y: 91.0
+  z: 37.500
+  pitch: 0.0
+  yaw: 0.0
