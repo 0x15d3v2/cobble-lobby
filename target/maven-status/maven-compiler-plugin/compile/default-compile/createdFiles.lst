@@ -1,8 +1,0 @@
-net\artren\cobble\events\FoodLevelChange.class
-net\artren\cobble\events\PlayerInteract.class
-net\artren\cobble\events\PlayerJoin.class
-net\artren\cobble\Cobble.class
-net\artren\cobble\events\PlayerChat.class
-net\artren\cobble\events\EntityDamage.class
-net\artren\cobble\events\PlayerMove.class
-net\artren\cobble\events\PlayerQuit.class

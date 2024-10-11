@@ -1,4 +1,0 @@
-name: CobbleLobi
-version: '1.0-SNAPSHOT'
-main: net.artren.cobble.Cobble
-api-version: '1.21'
